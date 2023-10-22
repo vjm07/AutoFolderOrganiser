@@ -1,0 +1,15 @@
+{
+    "downloadDir": "C:/Users/vjmar/Downloads",
+    "targetDirs": {
+        "C:/Users/vjmar/Pictures/Downloaded": [
+            "png", "jpeg", "jpg", "gif"
+        ],
+        "C:/Users/vjmar/Documents/Downloads": [
+            "docx", "pdf", "txt"
+        ]
+    },
+    "interval": {
+        "value": 2,
+        "unit": "seconds"
+    }
+}
